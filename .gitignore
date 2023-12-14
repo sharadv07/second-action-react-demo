@@ -1,0 +1,17 @@
+.vscode
+.git
+.DS_Store
+!.vscode/extensions.json
+.idea
+*.suo
+
+node_modules
+dist
+dist-ssr
+*.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
